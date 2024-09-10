@@ -1,0 +1,25 @@
+[{
+      "title": "Web developer",
+      "descriptoion": "Курс допоможе дитині знайти своє місце в обширному світі ІТ та отримати hard skill для майбутньої професії.",
+      "age": "13-17",
+      "pic": "https://cdn-icons-png.flaticon.com/512/174/174854.png"
+   },
+   {
+      "title": "Scratch",
+      "descriptoion": "Візуальна мова програмування Scratch – чудовий спосіб познайомитися з поняттям коду і дізнатися більше про алгоритми, водночас розвиваючи свій творчий потенціал.",
+      "age": "10-13",
+      "pic": "https://static.tildacdn.com/tild3165-3861-4736-b730-363065336265/scratch_logo.png"
+   },
+   {
+      "title": "Python",
+      "descriptoion": " Курс, після якого слова HTTP сервер, фреймворк, ліба перетворяться з незнайомих на прості терміни, які щодня використовуються в ІТ сфері",
+      "age": "13-17",
+      "pic": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+   },
+   {
+      "title": "Micro:Bit",
+      "descriptoion": " Micro:bit - кишеньковий комп'ютер, створений у Великобританії компанією BBC.",
+      "age": "13-17",
+      "pic": "https://play-lh.googleusercontent.com/f6XUXr6ntSbg7DLde8TWArmamCPHOORtqZ4labrsw_eXPv6eu-tsQVkppYkmZre0twZ0"
+   }
+]

@@ -3,15 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-.headerBox{
-    width: 100%;
-    height: 20%;
-}
+
+
 .headerConteiner{
     width: 100%;
-    height: 20%;
+    height: 10%;
     padding-top: 18px;
     padding-left: 55px;
+    background-color: rgb(255, 255, 72);
 }
 .headerConteiner p{
     padding-top: 10px;
