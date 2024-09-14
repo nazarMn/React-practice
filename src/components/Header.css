@@ -1,8 +1,9 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
-}
+    font-family: 'Montserrat', sans-serif;
+  }
 
 
 .headerConteiner{
@@ -10,7 +11,7 @@
     height: 10%;
     padding-top: 18px;
     padding-left: 55px;
-    background-color: rgb(255, 255, 72);
+    background-color: #f5a106b3;
 }
 .headerConteiner p{
     padding-top: 10px;
