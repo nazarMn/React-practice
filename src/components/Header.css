@@ -16,3 +16,8 @@
 .headerConteiner p{
     padding-top: 10px;
 }
+@media only screen and (max-height: 800px) {
+    .headerConteiner{
+        padding-top: 4px;
+    }
+  }
